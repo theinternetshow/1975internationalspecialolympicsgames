@@ -2,6 +2,6 @@ About.txt
 chapter1.txt
 chapter2.txt
 photos-2.txt
+mystory.txt
 chapter3.txt
 photos.txt
-mystory.txt
